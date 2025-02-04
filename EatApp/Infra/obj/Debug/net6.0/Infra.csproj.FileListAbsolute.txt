@@ -10,3 +10,8 @@ C:\Projetos\EatApp\EatApp\Infra\obj\Debug\net6.0\Infra.dll
 C:\Projetos\EatApp\EatApp\Infra\obj\Debug\net6.0\refint\Infra.dll
 C:\Projetos\EatApp\EatApp\Infra\obj\Debug\net6.0\Infra.pdb
 C:\Projetos\EatApp\EatApp\Infra\obj\Debug\net6.0\ref\Infra.dll
+C:\Projetos\EatApp\EatApp\Infra\bin\Debug\net6.0\Domain.dll
+C:\Projetos\EatApp\EatApp\Infra\bin\Debug\net6.0\Entities.dll
+C:\Projetos\EatApp\EatApp\Infra\bin\Debug\net6.0\Domain.pdb
+C:\Projetos\EatApp\EatApp\Infra\bin\Debug\net6.0\Entities.pdb
+C:\Projetos\EatApp\EatApp\Infra\obj\Debug\net6.0\Infra.csproj.CopyComplete
