@@ -27,7 +27,11 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Projetos\\EatApp\\EatApp\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Projetos\\EatApp\\EatApp\\Entities\\Entities.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
