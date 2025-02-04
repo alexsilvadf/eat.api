@@ -9,7 +9,11 @@ using System.Threading.Tasks;
 
 namespace Infra.Repositorio
 {
-    public class RepositorioCategoria: RepositoryGenerics<Categoria>, InterfaceCategoria
+    public class RepositorioCategoria : RepositoryGenerics<Categoria>, InterfaceCategoria
     {
+        public Task<IList<Categoria>> ListarCategoriaUsuario(string emailUsuario)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
