@@ -1,0 +1,12 @@
+C:\Projetos\EatApp\EatApp\Helpers\bin\Debug\net6.0\Helpers.deps.json
+C:\Projetos\EatApp\EatApp\Helpers\bin\Debug\net6.0\Helpers.dll
+C:\Projetos\EatApp\EatApp\Helpers\bin\Debug\net6.0\Helpers.pdb
+C:\Projetos\EatApp\EatApp\Helpers\obj\Debug\net6.0\Helpers.csproj.AssemblyReference.cache
+C:\Projetos\EatApp\EatApp\Helpers\obj\Debug\net6.0\Helpers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\EatApp\EatApp\Helpers\obj\Debug\net6.0\Helpers.AssemblyInfoInputs.cache
+C:\Projetos\EatApp\EatApp\Helpers\obj\Debug\net6.0\Helpers.AssemblyInfo.cs
+C:\Projetos\EatApp\EatApp\Helpers\obj\Debug\net6.0\Helpers.csproj.CoreCompileInputs.cache
+C:\Projetos\EatApp\EatApp\Helpers\obj\Debug\net6.0\Helpers.dll
+C:\Projetos\EatApp\EatApp\Helpers\obj\Debug\net6.0\refint\Helpers.dll
+C:\Projetos\EatApp\EatApp\Helpers\obj\Debug\net6.0\Helpers.pdb
+C:\Projetos\EatApp\EatApp\Helpers\obj\Debug\net6.0\ref\Helpers.dll
