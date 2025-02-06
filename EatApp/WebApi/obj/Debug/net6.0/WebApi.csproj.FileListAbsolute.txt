@@ -67,3 +67,4 @@ C:\Projetos\EatApp\EatApp\WebApi\bin\Debug\net6.0\Infra.dll
 C:\Projetos\EatApp\EatApp\WebApi\bin\Debug\net6.0\Infra.pdb
 C:\Projetos\EatApp\EatApp\WebApi\bin\Debug\net6.0\Domain.pdb
 C:\Projetos\EatApp\EatApp\WebApi\bin\Debug\net6.0\Entities.pdb
+C:\Projetos\EatApp\EatApp\WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
