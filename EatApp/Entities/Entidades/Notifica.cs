@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Entities.Entidades
 {
-    public class Notifica
+    public class Notifica 
     {
         public Notifica()
         {
