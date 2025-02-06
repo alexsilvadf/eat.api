@@ -25,7 +25,7 @@ namespace Infra.Repositorio
             using (var banco = new ContextoBase(_optionsBuilder))
             {
                 return await
-                    (from s in banco.SistemaFinanceiros
+                    (from s in banco.SistemaFinanceiro
                      join c in banco.Categoria on s.Id equals c.IdSistema
                      join us in banco.UsuarioSistemaFinanceiro on s.Id equals us.IdSistema
                      where us.EmailUsuario.Equals(emailUsuario) && us.SistemaAtual
