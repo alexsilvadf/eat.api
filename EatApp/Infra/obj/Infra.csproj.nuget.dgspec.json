@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projetos\\EatApp\\EatApp\\Infra\\Infra.csproj": {}
+    "D:\\Projetos\\eatApp\\eat.api\\EatApp\\Infra\\Infra.csproj": {}
   },
   "projects": {
-    "C:\\Projetos\\EatApp\\EatApp\\Domain\\Domain.csproj": {
+    "D:\\Projetos\\eatApp\\eat.api\\EatApp\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\EatApp\\EatApp\\Domain\\Domain.csproj",
+        "projectUniqueName": "D:\\Projetos\\eatApp\\eat.api\\EatApp\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Projetos\\EatApp\\EatApp\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\alex_dasilva\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\EatApp\\EatApp\\Domain\\obj\\",
+        "projectPath": "D:\\Projetos\\eatApp\\eat.api\\EatApp\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\alexu\\.nuget\\packages\\",
+        "outputPath": "D:\\Projetos\\eatApp\\eat.api\\EatApp\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\alex_dasilva\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\alexu\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,14 +22,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Projetos\\EatApp\\EatApp\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Projetos\\EatApp\\EatApp\\Entities\\Entities.csproj"
+              "D:\\Projetos\\eatApp\\eat.api\\EatApp\\Entities\\Entities.csproj": {
+                "projectPath": "D:\\Projetos\\eatApp\\eat.api\\EatApp\\Entities\\Entities.csproj"
               }
             }
           }
@@ -38,6 +39,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -49,30 +55,45 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.32, 6.0.32]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.32, 6.0.32]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.32, 6.0.32]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Projetos\\EatApp\\EatApp\\Entities\\Entities.csproj": {
+    "D:\\Projetos\\eatApp\\eat.api\\EatApp\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\EatApp\\EatApp\\Entities\\Entities.csproj",
+        "projectUniqueName": "D:\\Projetos\\eatApp\\eat.api\\EatApp\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Projetos\\EatApp\\EatApp\\Entities\\Entities.csproj",
-        "packagesPath": "C:\\Users\\alex_dasilva\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\EatApp\\EatApp\\Entities\\obj\\",
+        "projectPath": "D:\\Projetos\\eatApp\\eat.api\\EatApp\\Entities\\Entities.csproj",
+        "packagesPath": "C:\\Users\\alexu\\.nuget\\packages\\",
+        "outputPath": "D:\\Projetos\\eatApp\\eat.api\\EatApp\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\alex_dasilva\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\alexu\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -80,6 +101,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -92,6 +114,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -109,30 +136,45 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.32, 6.0.32]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.32, 6.0.32]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.32, 6.0.32]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Projetos\\EatApp\\EatApp\\Infra\\Infra.csproj": {
+    "D:\\Projetos\\eatApp\\eat.api\\EatApp\\Infra\\Infra.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\EatApp\\EatApp\\Infra\\Infra.csproj",
+        "projectUniqueName": "D:\\Projetos\\eatApp\\eat.api\\EatApp\\Infra\\Infra.csproj",
         "projectName": "Infra",
-        "projectPath": "C:\\Projetos\\EatApp\\EatApp\\Infra\\Infra.csproj",
-        "packagesPath": "C:\\Users\\alex_dasilva\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\EatApp\\EatApp\\Infra\\obj\\",
+        "projectPath": "D:\\Projetos\\eatApp\\eat.api\\EatApp\\Infra\\Infra.csproj",
+        "packagesPath": "C:\\Users\\alexu\\.nuget\\packages\\",
+        "outputPath": "D:\\Projetos\\eatApp\\eat.api\\EatApp\\Infra\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\alex_dasilva\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\alexu\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -140,17 +182,18 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Projetos\\EatApp\\EatApp\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Projetos\\EatApp\\EatApp\\Domain\\Domain.csproj"
+              "D:\\Projetos\\eatApp\\eat.api\\EatApp\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\Projetos\\eatApp\\eat.api\\EatApp\\Domain\\Domain.csproj"
               },
-              "C:\\Projetos\\EatApp\\EatApp\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Projetos\\EatApp\\EatApp\\Entities\\Entities.csproj"
+              "D:\\Projetos\\eatApp\\eat.api\\EatApp\\Entities\\Entities.csproj": {
+                "projectPath": "D:\\Projetos\\eatApp\\eat.api\\EatApp\\Entities\\Entities.csproj"
               }
             }
           }
@@ -159,6 +202,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -180,7 +228,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -189,7 +238,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
         }
       }
     }
