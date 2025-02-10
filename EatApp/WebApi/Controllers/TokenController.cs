@@ -19,6 +19,7 @@ namespace WebApi.Controllers
         {
             _userManager = userManager;
             _signInManager = signInManager;
+            //teste
         }
 
         [AllowAnonymous]
@@ -41,7 +42,7 @@ namespace WebApi.Controllers
                  .AddIssuer("Teste.Securiry.Bearer")
                  .AddAudience("Teste.Securiry.Bearer")
                  .AddClaim("UsuarioAPINumero", "1")
-                 .AddExpiry(5)
+                 .AddExpiry(40)
                  .Builder();
 
                 return Ok(token.value);

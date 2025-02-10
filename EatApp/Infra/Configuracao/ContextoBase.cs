@@ -38,7 +38,7 @@ namespace Infra.Configuracao
 
         public string ObterStringConexao()
         {
-            return " string de conexão aqui";
+            return "Data Source=localhost\\SQLEXPRESS; Database=FINANCEIRO_2025; Integrated Security=True; TrustServerCertificate=False;";
         }
 
     }

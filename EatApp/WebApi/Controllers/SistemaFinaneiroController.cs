@@ -1,6 +1,7 @@
 ﻿using Domain.Interfaces.InterfaceServicos;
 using Domain.Interfaces.ISistemaFinanceiro;
 using Entities.Entidades;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using System.Formats.Asn1;
@@ -9,6 +10,7 @@ namespace WebApi.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [Authorize]
     public class SistemaFinaneiroController : ControllerBase
     {
         private readonly InterfaceSistemaFinanceiro _interfaceSistemaFinanceiro;
@@ -51,7 +53,7 @@ namespace WebApi.Controllers
         {
             return await _interfaceSistemaFinanceiro.GetEntityById(id);           
         }
-
+        
         [HttpDelete("/api/DeleteSistemaFinanceiro")]
         [Produces("application/json")]
         public async Task<object> DeleteSistemaFinanceiro(int id)

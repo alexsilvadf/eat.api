@@ -27,7 +27,7 @@ namespace Infra.Repositorio
             {
                 return await
                     banco.UsuarioSistemaFinanceiro
-                    .Where(s => s.Id == IdSistema).AsNoTracking()
+                    .Where(s => s.IdSistema == IdSistema).AsNoTracking()
                     .ToListAsync();
 
             }
