@@ -2,6 +2,7 @@
 using Domain.Interfaces.IDespesa;
 using Domain.Interfaces.InterfaceServicos;
 using Entities.Entidades;
+using Entities.Enums;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -58,6 +59,33 @@ namespace Domain.Servicos
                 await _interfaceDespesa.Update(despesa);
             }
         }
-     
+
+        public async Task<object> CarregaGraficos(string emailUsuario)
+        {
+            var despesaUsuario = await _interfaceDespesa.ListarDespesaUsuario(emailUsuario);
+
+            var despesasAnteriores = await _interfaceDespesa.ListarDespesaUsuarioNaoPagasMesesAnterior(emailUsuario);
+
+            var despesas_naoPagasMesesAnteriores = despesasAnteriores.Any() ?
+                despesasAnteriores.ToList().Sum(x => x.Valor) : 0;
+
+            var despesasPagas = despesaUsuario.Where(d => d.Pago && d.TipoDespesa == EnumTipoDespesa.Contas)
+                .Sum(x => x.Valor);
+
+            var despesasPendentes = despesaUsuario.Where(d => !d.Pago && d.TipoDespesa == EnumTipoDespesa.Contas)
+                .Sum(x => x.Valor);
+
+            var investimentos = despesaUsuario.Where(d => d.TipoDespesa == EnumTipoDespesa.Investimento)
+              .Sum(x => x.Valor);
+
+            return new
+            {
+                sucesso = "OK",
+                despesas_pagas = despesasPagas,
+                despesas_pendentes = despesasPendentes,
+                despesas_naoPagasMesesAnteriores = despesas_naoPagasMesesAnteriores,
+                investimentos = investimentos
+            };
+        }
     }
 }

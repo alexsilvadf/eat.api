@@ -31,9 +31,9 @@ namespace WebApi.Controllers
             return await _interfaceDespesa.ListarDespesaUsuario(emailUsuario);
         }
 
-        [HttpPost("/api/AdicionarCategoria")]
+        [HttpPost("/api/AdicionarDespesa")]
         [Produces("application/json")]
-        public async Task<object> AdicionarCategoria(Despesa despesa)
+        public async Task<object> AdicionarDespesa(Despesa despesa)
         {
             await _despesaServico.AdicionarDespesa(despesa);
 
