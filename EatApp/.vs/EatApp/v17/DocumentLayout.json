@@ -3,44 +3,24 @@
   "WorkspaceRootPath": "D:\\Projetos\\eatApp\\eat.api\\EatApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{750BDCCB-9C71-461F-A0E2-126AF45D7C10}|WebApi\\WebApi.csproj|d:\\projetos\\eatapp\\eat.api\\eatapp\\webapi\\controllers\\tokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{750BDCCB-9C71-461F-A0E2-126AF45D7C10}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\tokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{750BDCCB-9C71-461F-A0E2-126AF45D7C10}|WebApi\\WebApi.csproj|d:\\projetos\\eatapp\\eat.api\\eatapp\\webapi\\controllers\\sistemafinaneirocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{750BDCCB-9C71-461F-A0E2-126AF45D7C10}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\sistemafinaneirocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{750BDCCB-9C71-461F-A0E2-126AF45D7C10}|WebApi\\WebApi.csproj|d:\\projetos\\eatapp\\eat.api\\eatapp\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{750BDCCB-9C71-461F-A0E2-126AF45D7C10}|WebApi\\WebApi.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8DA71600-1747-4A8F-AF9E-0051ED2B0445}|Infra\\Infra.csproj|d:\\projetos\\eatapp\\eat.api\\eatapp\\infra\\repositorio\\repositoriosistemafinanceiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DA71600-1747-4A8F-AF9E-0051ED2B0445}|Infra\\Infra.csproj|solutionrelative:infra\\repositorio\\repositoriosistemafinanceiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71D42660-0962-4E8D-9912-E1F355EFD5CA}|Entities\\Entities.csproj|d:\\projetos\\eatapp\\eat.api\\eatapp\\entities\\entidades\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71D42660-0962-4E8D-9912-E1F355EFD5CA}|Entities\\Entities.csproj|solutionrelative:entities\\entidades\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9777C336-90D0-47A8-BA1E-D89678D5D096}|Domain\\Domain.csproj|d:\\projetos\\eatapp\\eat.api\\eatapp\\domain\\interfaces\\isistemafinanceiro\\interfacesistemafinanceiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9777C336-90D0-47A8-BA1E-D89678D5D096}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\isistemafinanceiro\\interfacesistemafinanceiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{750BDCCB-9C71-461F-A0E2-126AF45D7C10}|WebApi\\WebApi.csproj|d:\\projetos\\eatapp\\eat.api\\eatapp\\webapi\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{750BDCCB-9C71-461F-A0E2-126AF45D7C10}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8DA71600-1747-4A8F-AF9E-0051ED2B0445}|Infra\\Infra.csproj|d:\\projetos\\eatapp\\eat.api\\eatapp\\infra\\repositorio\\repositoriousuariosistemafinanceiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8DA71600-1747-4A8F-AF9E-0051ED2B0445}|Infra\\Infra.csproj|solutionrelative:infra\\repositorio\\repositoriousuariosistemafinanceiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{750BDCCB-9C71-461F-A0E2-126AF45D7C10}|WebApi\\WebApi.csproj|d:\\projetos\\eatapp\\eat.api\\eatapp\\webapi\\controllers\\usuariosistemafinanceirocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{750BDCCB-9C71-461F-A0E2-126AF45D7C10}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\usuariosistemafinanceirocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71D42660-0962-4E8D-9912-E1F355EFD5CA}|Entities\\Entities.csproj|d:\\projetos\\eatapp\\eat.api\\eatapp\\entities\\entidades\\despesa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71D42660-0962-4E8D-9912-E1F355EFD5CA}|Entities\\Entities.csproj|solutionrelative:entities\\entidades\\despesa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{750BDCCB-9C71-461F-A0E2-126AF45D7C10}|WebApi\\WebApi.csproj|d:\\projetos\\eatapp\\eat.api\\eatapp\\webapi\\controllers\\despesascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{750BDCCB-9C71-461F-A0E2-126AF45D7C10}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\despesascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9777C336-90D0-47A8-BA1E-D89678D5D096}|Domain\\Domain.csproj|d:\\projetos\\eatapp\\eat.api\\eatapp\\domain\\servicos\\despesaservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9777C336-90D0-47A8-BA1E-D89678D5D096}|Domain\\Domain.csproj|solutionrelative:domain\\servicos\\despesaservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9777C336-90D0-47A8-BA1E-D89678D5D096}|Domain\\Domain.csproj|d:\\projetos\\eatapp\\eat.api\\eatapp\\domain\\interfaces\\interfaceservicos\\idespesaservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9777C336-90D0-47A8-BA1E-D89678D5D096}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\interfaceservicos\\idespesaservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,33 +30,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CategoriaController.cs",
-              "DocumentMoniker": "D:\\Projetos\\eatApp\\eat.api\\EatApp\\WebApi\\Controllers\\CategoriaController.cs",
-              "RelativeDocumentMoniker": "WebApi\\Controllers\\CategoriaController.cs",
-              "ToolTip": "D:\\Projetos\\eatApp\\eat.api\\EatApp\\WebApi\\Controllers\\CategoriaController.cs",
-              "RelativeToolTip": "WebApi\\Controllers\\CategoriaController.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAACIAAAA+AAAA",
+              "DocumentIndex": 1,
+              "Title": "RepositorioSistemaFinanceiro.cs",
+              "DocumentMoniker": "D:\\Projetos\\eatApp\\eat.api\\EatApp\\Infra\\Repositorio\\RepositorioSistemaFinanceiro.cs",
+              "RelativeDocumentMoniker": "Infra\\Repositorio\\RepositorioSistemaFinanceiro.cs",
+              "ToolTip": "D:\\Projetos\\eatApp\\eat.api\\EatApp\\Infra\\Repositorio\\RepositorioSistemaFinanceiro.cs",
+              "RelativeToolTip": "Infra\\Repositorio\\RepositorioSistemaFinanceiro.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAowEMAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T21:11:20.07Z",
-              "IsPinned": true
+              "WhenOpened": "2025-03-14T09:04:16.535Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "DespesasController.cs",
-              "DocumentMoniker": "D:\\Projetos\\eatApp\\eat.api\\EatApp\\WebApi\\Controllers\\DespesasController.cs",
-              "RelativeDocumentMoniker": "WebApi\\Controllers\\DespesasController.cs",
-              "ToolTip": "D:\\Projetos\\eatApp\\eat.api\\EatApp\\WebApi\\Controllers\\DespesasController.cs",
-              "RelativeToolTip": "WebApi\\Controllers\\DespesasController.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAswCMAAAA6AAAA",
+              "DocumentIndex": 2,
+              "Title": "InterfaceSistemaFinanceiro.cs",
+              "DocumentMoniker": "D:\\Projetos\\eatApp\\eat.api\\EatApp\\Domain\\Interfaces\\ISistemaFinanceiro\\InterfaceSistemaFinanceiro.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\ISistemaFinanceiro\\InterfaceSistemaFinanceiro.cs",
+              "ToolTip": "D:\\Projetos\\eatApp\\eat.api\\EatApp\\Domain\\Interfaces\\ISistemaFinanceiro\\InterfaceSistemaFinanceiro.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\ISistemaFinanceiro\\InterfaceSistemaFinanceiro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T21:38:35.195Z",
-              "IsPinned": true
+              "WhenOpened": "2025-03-14T09:03:24.544Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -92,100 +72,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TokenController.cs",
-              "DocumentMoniker": "D:\\Projetos\\eatApp\\eat.api\\EatApp\\WebApi\\Controllers\\TokenController.cs",
-              "RelativeDocumentMoniker": "WebApi\\Controllers\\TokenController.cs",
-              "ToolTip": "D:\\Projetos\\eatApp\\eat.api\\EatApp\\WebApi\\Controllers\\TokenController.cs",
-              "RelativeToolTip": "WebApi\\Controllers\\TokenController.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAcwBYAAAAJAAAA",
+              "DocumentIndex": 3,
+              "Title": "CategoriaController.cs",
+              "DocumentMoniker": "D:\\Projetos\\eatApp\\eat.api\\EatApp\\WebApi\\Controllers\\CategoriaController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\CategoriaController.cs",
+              "ToolTip": "D:\\Projetos\\eatApp\\eat.api\\EatApp\\WebApi\\Controllers\\CategoriaController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\CategoriaController.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAwwCsAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T00:52:17.055Z",
+              "WhenOpened": "2025-03-08T01:33:40.366Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Projetos\\eatApp\\eat.api\\EatApp\\WebApi\\Program.cs",
-              "RelativeDocumentMoniker": "WebApi\\Program.cs",
-              "ToolTip": "D:\\Projetos\\eatApp\\eat.api\\EatApp\\WebApi\\Program.cs",
-              "RelativeToolTip": "WebApi\\Program.cs",
-              "ViewState": "AQIAAEUAAAAAAAAAAAAAAFoAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T10:05:07.383Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Categoria.cs",
-              "DocumentMoniker": "D:\\Projetos\\eatApp\\eat.api\\EatApp\\Entities\\Entidades\\Categoria.cs",
-              "RelativeDocumentMoniker": "Entities\\Entidades\\Categoria.cs",
-              "ToolTip": "D:\\Projetos\\eatApp\\eat.api\\EatApp\\Entities\\Entidades\\Categoria.cs",
-              "RelativeToolTip": "Entities\\Entidades\\Categoria.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T00:56:07.018Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Despesa.cs",
-              "DocumentMoniker": "D:\\Projetos\\eatApp\\eat.api\\EatApp\\Entities\\Entidades\\Despesa.cs",
-              "RelativeDocumentMoniker": "Entities\\Entidades\\Despesa.cs",
-              "ToolTip": "D:\\Projetos\\eatApp\\eat.api\\EatApp\\Entities\\Entidades\\Despesa.cs",
-              "RelativeToolTip": "Entities\\Entidades\\Despesa.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAowBsAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T22:09:23.167Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "UsuarioSistemaFinanceiroController.cs",
               "DocumentMoniker": "D:\\Projetos\\eatApp\\eat.api\\EatApp\\WebApi\\Controllers\\UsuarioSistemaFinanceiroController.cs",
               "RelativeDocumentMoniker": "WebApi\\Controllers\\UsuarioSistemaFinanceiroController.cs",
               "ToolTip": "D:\\Projetos\\eatApp\\eat.api\\EatApp\\WebApi\\Controllers\\UsuarioSistemaFinanceiroController.cs",
               "RelativeToolTip": "WebApi\\Controllers\\UsuarioSistemaFinanceiroController.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAmwBsAAAAIAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAA4wCIAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T22:04:06.09Z"
+              "WhenOpened": "2025-03-06T23:27:25.847Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "RepositorioUsuarioSistemaFinanceiro.cs",
-              "DocumentMoniker": "D:\\Projetos\\eatApp\\eat.api\\EatApp\\Infra\\Repositorio\\RepositorioUsuarioSistemaFinanceiro.cs",
-              "RelativeDocumentMoniker": "Infra\\Repositorio\\RepositorioUsuarioSistemaFinanceiro.cs",
-              "ToolTip": "D:\\Projetos\\eatApp\\eat.api\\EatApp\\Infra\\Repositorio\\RepositorioUsuarioSistemaFinanceiro.cs",
-              "RelativeToolTip": "Infra\\Repositorio\\RepositorioUsuarioSistemaFinanceiro.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAmwBMAAAAJAAAA",
+              "DocumentIndex": 0,
+              "Title": "SistemaFinaneiroController.cs",
+              "DocumentMoniker": "D:\\Projetos\\eatApp\\eat.api\\EatApp\\WebApi\\Controllers\\SistemaFinaneiroController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\SistemaFinaneiroController.cs",
+              "ToolTip": "D:\\Projetos\\eatApp\\eat.api\\EatApp\\WebApi\\Controllers\\SistemaFinaneiroController.cs*",
+              "RelativeToolTip": "WebApi\\Controllers\\SistemaFinaneiroController.cs*",
+              "ViewState": "AQIAADkAAAAAAAAAAAAkwE8AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T22:04:06.112Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "DespesaServico.cs",
-              "DocumentMoniker": "D:\\Projetos\\eatApp\\eat.api\\EatApp\\Domain\\Servicos\\DespesaServico.cs",
-              "RelativeDocumentMoniker": "Domain\\Servicos\\DespesaServico.cs",
-              "ToolTip": "D:\\Projetos\\eatApp\\eat.api\\EatApp\\Domain\\Servicos\\DespesaServico.cs",
-              "RelativeToolTip": "Domain\\Servicos\\DespesaServico.cs",
-              "ViewState": "AQIAAEIAAAAAAAAAAAAAwFQAAAA2AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T21:48:06.769Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IDespesaServico.cs",
-              "DocumentMoniker": "D:\\Projetos\\eatApp\\eat.api\\EatApp\\Domain\\Interfaces\\InterfaceServicos\\IDespesaServico.cs",
-              "RelativeDocumentMoniker": "Domain\\Interfaces\\InterfaceServicos\\IDespesaServico.cs",
-              "ToolTip": "D:\\Projetos\\eatApp\\eat.api\\EatApp\\Domain\\Interfaces\\InterfaceServicos\\IDespesaServico.cs",
-              "RelativeToolTip": "Domain\\Interfaces\\InterfaceServicos\\IDespesaServico.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA6AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T21:47:11.646Z"
+              "WhenOpened": "2025-03-06T23:27:13.509Z",
+              "EditorCaption": ""
             }
           ]
         }

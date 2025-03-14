@@ -10,3 +10,15 @@ C:\Projetos\EatApp\EatApp\Helpers\obj\Debug\net6.0\Helpers.dll
 C:\Projetos\EatApp\EatApp\Helpers\obj\Debug\net6.0\refint\Helpers.dll
 C:\Projetos\EatApp\EatApp\Helpers\obj\Debug\net6.0\Helpers.pdb
 C:\Projetos\EatApp\EatApp\Helpers\obj\Debug\net6.0\ref\Helpers.dll
+D:\Projetos\eatApp\eat.api\EatApp\Helpers\bin\Debug\net6.0\Helpers.deps.json
+D:\Projetos\eatApp\eat.api\EatApp\Helpers\bin\Debug\net6.0\Helpers.dll
+D:\Projetos\eatApp\eat.api\EatApp\Helpers\bin\Debug\net6.0\Helpers.pdb
+D:\Projetos\eatApp\eat.api\EatApp\Helpers\obj\Debug\net6.0\Helpers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\eatApp\eat.api\EatApp\Helpers\obj\Debug\net6.0\Helpers.AssemblyInfoInputs.cache
+D:\Projetos\eatApp\eat.api\EatApp\Helpers\obj\Debug\net6.0\Helpers.AssemblyInfo.cs
+D:\Projetos\eatApp\eat.api\EatApp\Helpers\obj\Debug\net6.0\Helpers.csproj.CoreCompileInputs.cache
+D:\Projetos\eatApp\eat.api\EatApp\Helpers\obj\Debug\net6.0\Helpers.sourcelink.json
+D:\Projetos\eatApp\eat.api\EatApp\Helpers\obj\Debug\net6.0\Helpers.dll
+D:\Projetos\eatApp\eat.api\EatApp\Helpers\obj\Debug\net6.0\refint\Helpers.dll
+D:\Projetos\eatApp\eat.api\EatApp\Helpers\obj\Debug\net6.0\Helpers.pdb
+D:\Projetos\eatApp\eat.api\EatApp\Helpers\obj\Debug\net6.0\ref\Helpers.dll

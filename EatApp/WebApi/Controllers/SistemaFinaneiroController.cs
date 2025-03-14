@@ -35,7 +35,7 @@ namespace WebApi.Controllers
         {
             await _sistemaFinanceiroServico.AdicionarSistemaFinanceiro(sistemaFinanceiro);
 
-            return Task.FromResult(sistemaFinanceiro);
+            return sistemaFinanceiro;
         }
 
         [HttpPut("/api/AtualizarSistemaFinanceiro")]
@@ -69,6 +69,13 @@ namespace WebApi.Controllers
                 return false;
             }
             return true;
+        }
+
+        [HttpPost("/api/ExecuteCopiaDespesasSistemaFinanceiro")]
+        [Produces("application/json")]
+        public async Task<object> ExecuteCopiaDespesasSistemaFinanceiro(int id)
+        {
+            return await _interfaceSistemaFinanceiro.ExecuteCopiaDespesasSistemaFinanceiro();
         }
     }
 }
